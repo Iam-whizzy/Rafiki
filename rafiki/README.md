@@ -1,4 +1,4 @@
-# rafiki
+# Rafiki
 
 Flutter app files.
 
